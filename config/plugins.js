@@ -42,7 +42,4 @@ module.exports = () => ({
       defaultDepth: 3,
     },
   },
-  "vercel-deploy": {
-    enabled: true,
-  },
 });
