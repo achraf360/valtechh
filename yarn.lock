@@ -8751,14 +8751,6 @@ strapi-plugin-vercel-deploy@^1.4.0:
     axios "^0.26.1"
     react-intl "^5.25.1"
 
-strapi-provider-email-smtp@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/strapi-provider-email-smtp/-/strapi-provider-email-smtp-1.0.3.tgz"
-  integrity sha512-f66dyyWygzLmxHuzQfiPjX6vSZE/y2za4bwYBRKWkSeLu7WyVnwJ8xyfnleHXWhan7Xmo2QRoFfUOq367su0Rw==
-  dependencies:
-    lodash "^4.17.15"
-    nodemailer "^6.4.6"
-
 stream-chain@^2.2.5, stream-chain@2.2.5:
   version "2.2.5"
   resolved "https://registry.npmjs.org/stream-chain/-/stream-chain-2.2.5.tgz"
